@@ -35,7 +35,7 @@ GitHub Pages (for deployment)
 
 🔗 Live  cloudfront Website
 
-d2r0d0ycqf0bji.cloudfront.net
+http://d2r0d0ycqf0bji.cloudfront.net
 
 
 ------------------------------------------------------------------------------------------
