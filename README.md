@@ -54,4 +54,6 @@ This project was created with guidance and support from ChatGPT and inspired by 
 
 Email: akshaya21kj@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/akshaya-k
+LinkedIn: https://www.linkedin.com/in/akshaya-k-44a62b329
+
+
